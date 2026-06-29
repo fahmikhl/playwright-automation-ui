@@ -4,6 +4,12 @@ End-to-end UI automation for the DemoQA Book Store application
 (`https://demoqa.com/books`), built with Playwright and TypeScript using the
 Page Object Model.
 
+
+
+https://github.com/user-attachments/assets/6d910944-1f45-4a3a-8af8-ab70bde62c4a
+
+
+
 ## Coverage
 
 | Area        | Happy flow                          | Negative flow                          | Edge cases                                            |
